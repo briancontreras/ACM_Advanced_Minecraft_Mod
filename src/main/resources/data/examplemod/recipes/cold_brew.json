@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# ",
+    "WE",
+    "C "
+  ],
+  "key": {
+    "#": {
+      "item": "examplemod:roasted_coffeebeans"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "E": {
+      "item": "examplemod:glass_cup"
+    },
+    "C": {
+      "item": "minecraft:clock"
+    }
+  },
+  "result": {
+    "item": "examplemod:cold_brew",
+    "count": 1
+  }
+}

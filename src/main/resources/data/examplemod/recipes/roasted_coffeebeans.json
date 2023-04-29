@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "examplemod:unroasted_coffeebeans"
+  },
+  "result": "examplemod:roasted_coffeebeans",
+  "experience": 0.01,
+  "cookingtime": 200
+}

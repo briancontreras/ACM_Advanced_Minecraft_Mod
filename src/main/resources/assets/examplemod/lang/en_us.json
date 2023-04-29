@@ -1,0 +1,21 @@
+{
+  "item.examplemod.zircon": "Zircon",
+  "item.examplemod.raw_zircon": "Raw Zircon",
+  "item.examplemod.acmium": "Acmium",
+  "item.examplemod.raw_acmium": "Raw Acmium",
+  "item.examplemod.matcha": "Matcha Powder",
+  "item.examplemod.glass_cup": "Glass Cup",
+  "item.examplemod.ice_cubes": "Ice Cubes",
+  "item.examplemod.matcha_latte": "Iced Matcha Latte",
+  "item.examplemod.unroasted_coffeebeans": "Unroasted Coffee Beans",
+  "item.examplemod.roasted_coffeebeans": "Roasted Coffee Beans",
+  "item.examplemod.coffee": "Coffee",
+  "item.examplemod.cold_brew":"Cold Brew",
+  "item.examplemod.boiling_water": "Boiling Water",
+
+  "block.examplemod.zircon_block": "Block of Zircon",
+  "block.examplemod.zircon_ore": "Zircon Ore",
+  "block.examplemod.deepslate_zircon_ore": "Deepslate Zircon Ore",
+
+  "itemGroup.exampletab": "Zircon Tutorial Tab"
+}

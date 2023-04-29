@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#W",
+    " Y ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "examplemod:matcha"
+    },
+    "X": {
+      "item": "minecraft:milk_bucket"
+    },
+    "Y": {
+      "item": "examplemod:glass_cup"
+    },
+    "W": {
+      "item": "examplemod:ice_cubes"
+    }
+  },
+  "result": {
+    "item": "examplemod:matcha_latte"
+  }
+}
